@@ -2,8 +2,7 @@
 using namespace std;
 
 void solve() {
-    int n1;
-    cin>>n1;
+    
     
        
 }
